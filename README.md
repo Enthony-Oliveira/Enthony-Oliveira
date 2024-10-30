@@ -1,4 +1,4 @@
-<h2 align="center">Ola, Me Chama Enthony</h2>
+<h2 align="center">Ola, Me Chamo Enthony</h2>
 
 ###
 
