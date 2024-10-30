@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou Iniciante na programação tenho 22 anos e o mundo da tecnologia me fascina , e resolvi iniciar e focar meus estudos completamente em aprender, programação mobile utilizando dart e flutter.</p>
+<p align="left">Sou Iniciante na programação tenho 22 anos e o mundo da tecnologia me fascina , e resolvi iniciar e focar meus estudos completamente em aprender, front end.</p>
 
 ###
 
@@ -15,15 +15,11 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="40" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
 </div>
 
 ###
