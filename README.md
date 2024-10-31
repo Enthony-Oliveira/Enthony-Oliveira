@@ -1,4 +1,4 @@
-<h2 align="center">Ola, Me Chamo Enthony</h2>
+<h2 align="center">Ola, Me Chama Enthony</h2>
 
 ###
 
@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou Iniciante na programação tenho 22 anos e o mundo da tecnologia me fascina , e resolvi iniciar e focar meus estudos completamente em aprender, front end.</p>
+<p align="left">Sou Iniciante na programação tenho 22 anos e o mundo da tecnologia me fascina , e resolvi iniciar e focar meus estudos completamente em aprender, programação, mobile com flutter e dart.</p>
 
 ###
 
@@ -15,11 +15,15 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  />
 </div>
 
 ###
