@@ -1,4 +1,4 @@
-<h2 align="center">Olá, Me Chama Enthony</h2>
+<h2 align="center">Olá, Me Chamo Enthony Oliveira</h2>
 
 ###
 
@@ -6,22 +6,14 @@
 
 ###
 
-<p align="left">Sou Iniciante na programação tenho 22 anos e o mundo da tecnologia me fascina , e resolvi iniciar e focar meus estudos completamente no Front-End</p>
-
-###
-
-<h4 align="left">Tecnologias, em fase de aprendizagem.</h4>
+<p align="left">Tenho 22 anos e estou iniciando minha jornada no desenvolvimento de software. O mundo da tecnologia sempre me fascinou e atualmente estou focado em aprender e me especializar em Flutter para criar aplicativos multiplataforma modernos e eficientes.</p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -31,11 +23,6 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Enthony-Oliveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Enthony-Oliveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
 ###
 
