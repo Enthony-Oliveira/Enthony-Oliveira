@@ -5,9 +5,6 @@
 <h3 align="left">Sobre Mim</h3>
 
 ###
-
-<p align="left">Tenho 22 anos e estou iniciando minha jornada no desenvolvimento de software. O mundo da tecnologia sempre me fascinou e atualmente estou focado em aprender e me especializar em Flutter para criar aplicativos multiplataforma modernos e eficientes.</p>
-
 ###
 
 <div align="left">
