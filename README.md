@@ -5,18 +5,20 @@
 <h3 align="left">Sobre Mim</h3>
 
 ###
+
+<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.  <br>O mundo da tecnologia sempre me fascinou e atualmente estou focado em aprender e me especializar em React Native para criar aplicativos multiplataforma modernos e eficientes.</p>
+
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 </div>
 
 ###
