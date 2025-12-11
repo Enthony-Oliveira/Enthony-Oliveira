@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.<br>O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em Flutter, criando aplicativos modernos, eficientes e com interfaces de alta qualidade utilizando Dart e o ecossistema do Flutter.</p>
+<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.<br>O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em Flutter, criando aplicativos modernos, eficientes e com interfaces de alta qualidade utilizando Dart e todo o ecossistema do Flutter.</p>
 
 ###
 
@@ -14,6 +14,8 @@
   <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
