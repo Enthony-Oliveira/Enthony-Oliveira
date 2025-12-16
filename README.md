@@ -6,16 +6,16 @@
 
 ###
 
-<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.<br>O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em Flutter, criando aplicativos modernos, eficientes e com interfaces de alta qualidade utilizando Dart e todo o ecossistema do Flutter.</p>
+<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.<br>O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em React Native, criando aplicativos móveis modernos, eficientes e com interfaces de alta qualidade utilizando JavaScript/TypeScript e todo o ecossistema do React Native.</p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="12" />
@@ -31,5 +31,13 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Enthony-Oliveira/Enthony-Oliveira/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Enthony-Oliveira/Enthony-Oliveira/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Enthony-Oliveira/Enthony-Oliveira/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
