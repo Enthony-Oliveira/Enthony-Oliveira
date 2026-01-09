@@ -6,14 +6,16 @@
 
 ###
 
-<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.<br>O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em desenvolvimento mobile com Flutter, criando aplicações com interfaces modernas, responsivas e bem estruturadas, utilizando Dart e Flutter, sempre buscando boas práticas e uma excelente experiência do usuário.</p>
+<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.<br>O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em desenvolvimento mobile com Kotlin, criando aplicações com interfaces modernas, responsivas e bem estruturadas, utilizando Kotlin e jetpackcompose, sempre buscando boas práticas e uma excelente experiência do usuário.</p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
