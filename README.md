@@ -6,16 +6,14 @@
 
 ###
 
-<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.<br>O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em desenvolvimento Front-end Web, criando interfaces modernas, responsivas e bem estruturadas, utilizando HTML, CSS, JavaScript e React, sempre buscando boas práticas e uma excelente experiência do usuário.</p>
+<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software.<br>O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em desenvolvimento mobile com Flutter, criando aplicações com interfaces modernas, responsivas e bem estruturadas, utilizando Dart e Flutter, sempre buscando boas práticas e uma excelente experiência do usuário.</p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=dart" height="40" alt="dart logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -25,6 +23,7 @@
 ###
 
 ###
+
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://www.instagram.com/enthony.dev/" target="_blank">
