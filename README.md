@@ -6,22 +6,24 @@
 
 ###
 
-<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software. O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em desenvolvimento Front-end Web, criando interfaces modernas, responsivas e bem estruturadas, utilizando HTML, CSS, JavaScript e PHP, sempre buscando boas práticas, organização de código e uma excelente experiência do usuário.<br><br>Desenvolvo projetos próprios com foco em aplicações web dinâmicas, incluindo sistemas com integração a banco de dados MySQL, aplicando conceitos de formulários, validações e manipulação de dados.</p>
+<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software. O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em desenvolvimento Android nativo, utilizando Kotlin e Jetpack Compose para criar aplicações com interfaces modernas, responsivas e bem estruturadas, sempre buscando boas práticas, organização de código e uma excelente experiência do usuário.<br><br>Desenvolvo projetos próprios com foco em aplicações Android, aplicando conceitos de arquitetura como MVVM, navegação entre telas, gerenciamento de estado, consumo de APIs, validações de formulários e integração com serviços externos, com o objetivo de evoluir tecnicamente e entregar soluções reais.</p>
 
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetpackcompose/jetpackcompose-original.svg" height="40" alt="jetpackcompose logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
