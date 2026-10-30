@@ -1,23 +1,29 @@
-<h2 align="center">Olá, Me Chamo Enthony Oliveira</h2>
+<br clear="both">
+
+<h2 data-importer="text" align="center">Olá, Me Chamo Enthony Oliveira</h2>
 
 ###
 
-<h3 align="left">Sobre Mim</h3>
+<br clear="both">
+
+<h3 data-importer="text" align="left">Sobre mim</h3>
 
 ###
 
-<p align="left">Tenho 23 anos e estou iniciando minha jornada no desenvolvimento de software. O mundo da tecnologia sempre me fascinou e, atualmente, estou focado em aprender e me especializar em desenvolvimento Front-end, criando interfaces modernas, responsivas e bem estruturadas para aplicações web.<br><br>Desenvolvo projetos próprios com foco em Front-end, utilizando tecnologias como HTML, CSS e JavaScript, aplicando boas práticas de desenvolvimento, organização de código, responsividade e atenção à experiência do usuário. Busco constantemente evoluir tecnicamente, aprimorar meus conhecimentos em frameworks e bibliotecas do ecossistema Front-end e entregar soluções funcionais, intuitivas e próximas de cenários reais do mercado.</p>
+<br clear="both">
+
+<p data-importer="text" align="left">Desenvolvedor de software focado em Backend e Arquitetura de Sistemas, em transição estratégica para o ecossistema de alta performance com Go (Golang). Tenho forte interesse em engenharia de software, microsserviços, concorrência e no desenvolvimento de soluções robustas voltadas para o mercado financeiro e Open Finance.<br><br>Atualmente, dedico meus estudos à construção de sistemas resilientes, estruturação de APIs, modelagem de dados com PostgreSQL e automações eficientes, priorizando código limpo, documentação rigorosa e uma mentalidade orientada à resolução de problemas complexos.</p>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -26,12 +32,9 @@
 
 ###
 
-<div align="left">
-  <a href="www.linkedin.com/in/entohnyoliveira1107" target="_blank">
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/enthonyoliveira/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/enthony.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
